@@ -10,7 +10,7 @@ This is a simple banking system implemented in Python using the Tkinter library 
 
 ## Course Information
 
-This project was developed as the final project for the Introduction to Programming course. It showcases the practical application of programming concepts learned during the course.
+This project was developed as the final group project for the Introduction to Programming course. It showcases the practical application of programming concepts learned during the course.
 
 ## Requirements
 
