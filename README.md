@@ -23,7 +23,7 @@ This project was developed as the final group project for the Introduction to Pr
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/banking-system.git
+    git clone https://github.com/AlshehriAli0/banking-system.git
     ```
 
 2. Navigate to the project directory:
